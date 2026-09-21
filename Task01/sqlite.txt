@@ -1,0 +1,2 @@
+Номер установленной версии SQLite: 3.50.4
+Доступные режимы ввода: ascii, box, csv, column, html, insert, json, line, list, markdown, qbox, quote, table, tabs, tcl
