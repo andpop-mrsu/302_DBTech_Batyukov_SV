@@ -1,0 +1,3 @@
+db_init.sql
+*.db
+__pycache__/
